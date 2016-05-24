@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Discover The World</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="name_textView_splashActivity">Discover the World</string>
+    <string name="registration_title_registerActivity">Create account</string>
+    <string name="firstNameHint_editText_registerActivity">First Name</string>
+    <string name="lastNameHint_editText_registerActivity">Last Name</string>
+    <string name="passwordHint_editText_registerActivity">Password</string>
+    <string name="retypePasswordHint_editText_registerActivity">Retype Passwords</string>
+    <string name="emailHint_editText_registerActivity">Enter your email</string>
+    <string name="confirm_button_registerActivity">Confirm</string>
+    <string name="cancel_button_registerActivity">Cancel</string>
+    <string name="login_title_loginActivity">Login</string>
+    <string name="ipInfo_button_homeActivity">Get IP info</string>
+    <string name="searchIP_button_ipInfoActivity">Search IP</string>
+    <string name="ipInfo_textView_ipInfoActivity">The IP you are locating is :</string>
+    <string name="country_textView_ipInfoActivity">The country is </string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="back_button_settingsActivity">Back</string>
+    <string name="changeBackground_button_settingsActivity">Change Background</string>
+    <string name="changeFontSize_textView_settingsActivity">Change font</string>
+    <string name="language_textView_settingsActivity">Language</string>
+    <string name="openImageBackground_button_settingsActivity">Open</string>
+    <string name="about_button_homeActivity">About</string>
+    <string name="exit_button_homeActivity">Exit</string>
+    <string name="settings_button_homeActivity">Settings</string>
+    <string name="ipHint_editText_homeActivity">IP example : 23.89.255.255</string>
+
+
+    <string name="title_text_view_country_info">Country Info</string>
+
+    <string name="textButtonLogin">Login</string>
+    <string name="textButtonRegister">Register</string>
+    <string name="usernameHintLogin">Username</string>
+    <string name="passwordHintLogin">Password</string>
+    <string name="buttonRegister">Register me now</string>
+    <string name="info_country_textButton_IpInfoActivity">Info Country</string>
+    <string name="back_buttonText_CountryInfo">Back</string>
+    <string name="aboutCreatorsFragment">Aplicatie realizată de : \n\n\nSandu Mihai \nScarlat Simona Ileana\nStavride Miruna \n\n\nGrupa 1068 \nProfesor curs : Paul Pocatilu Profesor seminar : Bogdan Iancu</string>
+    <string name="subtitle_aboutCreatorsFragment">Aplicatie realizata pentru disciplina Programarea aplicatiilor mobile</string>
+    <string name="insertValidIp_ipInfoActivity">Please insert a valid IP</string>
+    <string name="gettingData_ipInfoActivity">Getting data...</string>
+    <string name="ipNotCorrect_ipInfoActivity">The ip you inserted is not correct</string>
+    <string name="actionExit_menu">Exit</string>
+    <string name="actionSettings_menu">Settings</string>
+    <string name="actionAbout_menu">About</string>
+
+    <string name="change_bg_text_view_settings">Background</string>
+    <string name="change_font_size_settings">Font Style</string>
+    <string name="change_language_settings">Language</string>
+</resources>

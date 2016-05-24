@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fontStyleOptions">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+    </string-array>
+    <string-array name="languageOptions">
+        <item>English</item>
+        <item>Romana</item>
+    </string-array>
+    <string-array name="backgroundColors">
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
